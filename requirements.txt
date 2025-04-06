@@ -1,0 +1,10 @@
+# List dependencies here
+
+langchain-openai
+langchain-core
+pymilvus
+sentence-transformers
+python-dotenv
+fastapi
+uvicorn
+pydantic
